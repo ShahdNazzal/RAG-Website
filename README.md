@@ -1,6 +1,6 @@
 # RAG Website — Frontend
 
-Frontend interface for the Mini-RAG (Retrieval-Augmented Generation) system. Built with React and Next.js, this app provides two experiences:
+Frontend interface for the RAG (Retrieval-Augmented Generation) system. Built with React and Next.js, this app provides two experiences:
 
 - **Employees** can ask questions and get answers pulled from the company's internal documents.
 - **HR** can securely log in and upload new documents for the system to learn from.
