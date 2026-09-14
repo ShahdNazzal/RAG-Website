@@ -1,6 +1,6 @@
 # RAG Website — Frontend
 
-Frontend interface for the Mini-RAG (Retrieval-Augmented Generation) system. Built with React and Next.js (generated with [v0 by Vercel](https://v0.dev)), this app provides two experiences:
+Frontend interface for the Mini-RAG (Retrieval-Augmented Generation) system. Built with React and Next.js, this app provides two experiences:
 
 - **Employees** can ask questions and get answers pulled from the company's internal documents.
 - **HR** can securely log in and upload new documents for the system to learn from.
@@ -34,7 +34,6 @@ Frontend interface for the Mini-RAG (Retrieval-Augmented Generation) system. Bui
 
 - **React** (via Next.js)
 - **Node.js** / npm
-- Generated and iterated with **v0 by Vercel**
 
 ---
 
@@ -87,7 +86,6 @@ RAG-Website/
 ├── public/ # Static assets
 ├── screenshots/ # README screenshots
 └── README.md
-
 
 
 
