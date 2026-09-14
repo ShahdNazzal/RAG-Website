@@ -26,6 +26,11 @@ Frontend interface for the RAG (Retrieval-Augmented Generation) system. Built wi
 ### HR Document Upload
 ![HR document upload panel](./hr-upload.png)
 
+### Source Citations — Answer Transparency
+![HR document upload panel](./sources.png)
+
+
+
 > Place your screenshot images inside a `screenshots/` folder at the project root, using the file names above (or update the paths here to match your file names).
 
 ---
