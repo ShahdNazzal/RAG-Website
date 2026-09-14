@@ -18,7 +18,7 @@ Frontend interface for the RAG (Retrieval-Augmented Generation) system. Built wi
 ## 📸 Screenshots
 
 ### Employee Chat — Ask Questions
-![Employee chat interface](./screenshots/employee-chat.png)
+![Employee chat interface](./employee-chat.png)
 
 ### HR Login — Password Protected Access
 ![HR login screen](./screenshots/hr-login.png)
