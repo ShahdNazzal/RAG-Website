@@ -21,10 +21,10 @@ Frontend interface for the RAG (Retrieval-Augmented Generation) system. Built wi
 ![Employee chat interface](./employee-chat.png)
 
 ### HR Login — Password Protected Access
-![HR login screen](./screenshots/hr-login.png)
+![HR login screen](./hr-login.png)
 
 ### HR Document Upload
-![HR document upload panel](./screenshots/hr-upload.png)
+![HR document upload panel](./hr-upload.png)
 
 > Place your screenshot images inside a `screenshots/` folder at the project root, using the file names above (or update the paths here to match your file names).
 
